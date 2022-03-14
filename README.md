@@ -27,4 +27,5 @@ let df: DataFrame = new DataFrame(data, colNames);
 console.log(df.print());
 ```
 
+Console Output:
 ![Screenshot](https://i.imgur.com/j5ODHsx.png)
