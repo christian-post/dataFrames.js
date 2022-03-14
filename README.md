@@ -23,6 +23,6 @@ let colNames: string[] = ['day', 'temperature', 'rain'];
 let df: DataFrame = new DataFrame(data, colNames);
 
 
-// print the whole data frame
+// show the data frame in the console
 console.log(df.print());
 ```
