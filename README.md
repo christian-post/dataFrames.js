@@ -26,3 +26,5 @@ let df: DataFrame = new DataFrame(data, colNames);
 // show the data frame in the console
 console.log(df.print());
 ```
+
+![Screenshot]https://i.imgur.com/j5ODHsx.png
